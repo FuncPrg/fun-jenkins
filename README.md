@@ -1,5 +1,4 @@
-# FUN-Docker-Image for Jenkins
+# Haskell-Docker-Image for Continuous Integration
 
-- [FUN-Lecture](https://ob.cs.hm.edu/lectures/fun.html)
-- [Docker-Hub](https://hub.docker.com/r/obraun/fun-jenkins)
-- [GitHub](https://github.com/FubcPrg/fun-jenkins)
+- [Docker-Hub](https://hub.docker.com/r/obraun/haskell-ci)
+- [GitHub](https://github.com/FuncPrg/haskell-ci)
